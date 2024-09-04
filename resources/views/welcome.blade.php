@@ -3,7 +3,7 @@
     <head>
         <meta charse="utf-8">
         <meta name="viewort" content="width-device-width, initial-scale=1">
-        <title>PWL 224</title>
+        <title>PWL 2024</title>
     </head>
     <body class="antialiased">
         <h2>Pemrograman Web Lanjut 2024</h2>
