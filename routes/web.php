@@ -46,6 +46,8 @@ Route::get('/articles/{id}', function ($id) {
     return 'Halaman Artikel dengan ID '.$id;
     });
 
-Route::get('/user/{name?}', function ($name='John') {
+Route::get('/user/{name?}', function ($name='Johnn') {
     return 'Nama saya '.$name;
 });
+
+//Mengakhiri Praktikum 1 (Kesalahan nama commit pada 2 commit sebelumnya)
