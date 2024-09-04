@@ -68,3 +68,6 @@ Route::resource('photos', PhotoController::class)->except([
     ]);
 
 //Mengakhiri Praktikum 2
+
+Route::get('/greeting', [WelcomeController::class,
+'greeting']);
